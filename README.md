@@ -7,7 +7,7 @@ To run it, follow the steps:
 
 - `On Mars, open the bitmap.asm file;`
 
-- `Now, check the FILENAME variable in the code, it should have the correct path to the .ppm file you want to prin;` 
+- `Now, check the FILENAME variable in the code, it should have the correct path to the .ppm file you want to print;` 
 
 An example of file address on Ubuntu(user klausdk) would be: 
 
@@ -20,4 +20,4 @@ FILENAME: .asciiz "/home/klausdk/Documentos/Projetos/Assembly/homer.ppm"
 - `On the bitmap display, select the following settings, 1 , 1, 256, 256, 0x10040000(heap), and then click the "Connect to MIPS" button;`      
 After that the display is connected in the correct addres, and you should run the code
 
-- `To run the code click the assemble button(icon showing a screwdriver and a spanner) the click the green play button that should show on the side of the assemble button`
+- `To run the code click the assemble button (icon showing a screwdriver and a spanner) then click the green play button that should show on the side of the assemble button`
